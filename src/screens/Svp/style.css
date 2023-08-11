@@ -1,0 +1,478 @@
+.svp {
+  background-color: #1d202a;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.svp .div {
+  background-color: #1d202a;
+  border: 1px none;
+  height: 1080px;
+  position: relative;
+  width: 1920px;
+}
+
+.svp .overlap {
+  height: 78px;
+  left: 803px;
+  position: absolute;
+  top: 106px;
+  width: 311px;
+}
+
+.svp .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 64px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 308px;
+}
+
+.svp .group {
+  height: 65px;
+  left: 2px;
+  position: absolute;
+  top: 14px;
+  width: 310px;
+}
+
+.svp .copyright-kazen {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 784px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1022px;
+  width: 353px;
+}
+
+.svp .overlap-group {
+  background-color: #272c3c;
+  border-radius: 30px;
+  height: 558px;
+  left: 1360px;
+  position: absolute;
+  top: 243px;
+  width: 502px;
+}
+
+.svp .text-wrapper-3 {
+  color: #75ac8b;
+  font-family: "Inter", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  white-space: nowrap;
+  width: 360px;
+}
+
+.svp .overlap-2 {
+  background-color: #1d202a;
+  border-radius: 13px;
+  height: 117px;
+  left: 31px;
+  position: absolute;
+  top: 132px;
+  width: 439px;
+}
+
+.svp .text-wrapper-4 {
+  color: #838383;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 324px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 95px;
+  white-space: nowrap;
+  width: 95px;
+}
+
+.svp .image {
+  height: 74px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 78px;
+}
+
+.svp .text-wrapper-5 {
+  color: #c5c5c5;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 105px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+  width: 176px;
+}
+
+.svp .overlap-3 {
+  background-color: #1d202a;
+  border-radius: 13px;
+  height: 117px;
+  left: 31px;
+  position: absolute;
+  top: 277px;
+  width: 439px;
+}
+
+.svp .text-wrapper-6 {
+  color: #838383;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 324px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 84px;
+  white-space: nowrap;
+  width: 95px;
+}
+
+.svp .img {
+  height: 74px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 78px;
+}
+
+.svp .text-wrapper-7 {
+  color: #c5c5c5;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 105px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 31px;
+  width: 176px;
+}
+
+.svp .overlap-4 {
+  background-color: #1d202a;
+  border-radius: 13px;
+  height: 117px;
+  left: 31px;
+  position: absolute;
+  top: 414px;
+  width: 439px;
+}
+
+.svp .text-wrapper-8 {
+  color: #838383;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 324px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 78px;
+  white-space: nowrap;
+  width: 95px;
+}
+
+.svp .image-2 {
+  height: 74px;
+  left: 14px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 78px;
+}
+
+.svp .text-wrapper-9 {
+  color: #c5c5c5;
+  font-family: "Inter", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  left: 105px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+  width: 176px;
+}
+
+.svp .overlap-5 {
+  background-color: #272b3b;
+  border-radius: 32px;
+  height: 1013px;
+  left: 92px;
+  position: absolute;
+  top: 34px;
+  width: 377px;
+}
+
+.svp .img-2 {
+  height: 64px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 851px;
+  width: 79px;
+}
+
+.svp .line {
+  height: 58px;
+  left: 130px;
+  position: absolute;
+  top: 848px;
+  width: 6px;
+}
+
+.svp .line-2 {
+  height: 58px;
+  left: 240px;
+  position: absolute;
+  top: 848px;
+  width: 6px;
+}
+
+.svp .telegram-logo {
+  height: 53px;
+  left: 271px;
+  object-fit: cover;
+  position: absolute;
+  top: 851px;
+  width: 53px;
+}
+
+.svp .image-3 {
+  height: 57px;
+  left: 158px;
+  object-fit: cover;
+  position: absolute;
+  top: 849px;
+  width: 59px;
+}
+
+.svp .line-3 {
+  height: 3px;
+  left: 43px;
+  position: absolute;
+  top: 792px;
+  width: 288px;
+}
+
+.svp .line-4 {
+  height: 3px;
+  left: 43px;
+  position: absolute;
+  top: 348px;
+  width: 288px;
+}
+
+.svp .background {
+  background-color: #1d202a;
+  border-radius: 30px;
+  height: 369px;
+  left: 31px;
+  position: absolute;
+  top: 386px;
+  width: 315px;
+}
+
+.svp .element {
+  height: 221px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 58px;
+  width: 221px;
+}
+
+.svp .overlap-6 {
+  background-color: #272c3b;
+  border-radius: 30px;
+  height: 535px;
+  left: 547px;
+  position: absolute;
+  top: 339px;
+  width: 759px;
+}
+
+.svp .script-editor {
+  height: 454px;
+  left: 30px;
+  position: absolute;
+  top: 41px;
+  width: 702px;
+}
+
+.svp .overlap-group-2 {
+  background-color: #1d202a;
+  border-radius: 7px;
+  height: 454px;
+  position: relative;
+  width: 698px;
+}
+
+.svp .const-ktz-name-kazen {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 77px;
+  width: 633px;
+}
+
+.svp .span {
+  color: #00a3ff;
+}
+
+.svp .text-wrapper-10 {
+  color: #ffffff;
+}
+
+.svp .text-wrapper-11 {
+  color: #b57171;
+}
+
+.svp .text-wrapper-12 {
+  color: #ff727b;
+}
+
+.svp .text-wrapper-13 {
+  color: #53ba42;
+}
+
+.svp .text-wrapper-14 {
+  color: #ff737b;
+}
+
+.svp .text-wrapper-15 {
+  color: #53ba43ba;
+}
+
+.svp .text-wrapper-16 {
+  color: #d2333c;
+}
+
+.svp .text-wrapper-17 {
+  color: #ff737c;
+}
+
+.svp .element-2 {
+  color: #373c50;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 38.6px;
+  position: absolute;
+  text-align: center;
+  top: 77px;
+  width: 22px;
+}
+
+.svp .vector {
+  height: 7px;
+  left: 17px;
+  position: absolute;
+  top: 48px;
+  width: 656px;
+}
+
+.svp .stats-instance {
+  height: 74px !important;
+  left: 44px !important;
+  position: absolute !important;
+  top: 32px !important;
+  width: 94.29px !important;
+}
+
+.svp .design-component-instance-node {
+  font-size: 24px !important;
+  margin-top: unset !important;
+}
+
+.svp .stats-2 {
+  height: 74px !important;
+  left: 138px !important;
+  position: absolute !important;
+  top: 32px !important;
+  width: 94.29px !important;
+}
+
+.svp .stats-3 {
+  color: #838383 !important;
+  font-size: 24px !important;
+  margin-top: unset !important;
+}
+
+.svp .stats-4 {
+  height: 74px !important;
+  left: 232px !important;
+  position: absolute !important;
+  top: 32px !important;
+  width: 94.29px !important;
+}
+
+.svp .stats-5 {
+  height: 74px !important;
+  left: 333px !important;
+  position: absolute !important;
+  top: 32px !important;
+  width: 94.29px !important;
+}
+
+.svp .stats-6 {
+  height: 74px !important;
+  left: 424px !important;
+  position: absolute !important;
+  top: 32px !important;
+  width: 94.29px !important;
+}
+
+.svp .stats-7 {
+  height: 74px !important;
+  left: 507px !important;
+  position: absolute !important;
+  top: 32px !important;
+  width: 94.29px !important;
+}
+
+.svp .stats-8 {
+  height: 74px !important;
+  left: 613px !important;
+  position: absolute !important;
+  top: 32px !important;
+  width: 94.29px !important;
+}
